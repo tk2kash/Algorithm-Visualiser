@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import getMergeSortAnimations from "../Algorithms/MergeSort";
 import bubbleSort from "../Algorithms/BubbleSort"; 
 import quickSort from "../Algorithms/QuickSort";
